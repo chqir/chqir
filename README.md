@@ -5,13 +5,13 @@
 
 ⌐■ᴗ■ Pronouns: **she/they**
 
-> (ᵔᴥᵔ) i’m currently working on [a minecraft texture pack website called shift.](https://github.com/shiftwtf)
+\> (ᵔᴥᵔ) i’m currently working on [a minecraft texture pack website called shift.](https://github.com/shiftwtf)
 
-> (✿◠‿◠) i’m currently learning **time management**
+\> (✿◠‿◠) i’m currently learning **time management**
 
-> ( 。・_・。)人(。・_・。 ) i’m looking to collaborate on **a web dev project for my local library.**
+\> ( 。・_・。)人(。・_・。 ) i’m looking to collaborate on **a web dev project for my local library.**
 
-> (ง’̀-‘́)ง i’m looking for help with **machine learning!**
+\> (ง’̀-‘́)ง i’m looking for help with **machine learning!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
