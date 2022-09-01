@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chqir&label=Profile%20views&color=0e75b6&style=flat" alt="chqir" /> </p>
 
-- (ᵔᴥᵔ) i’m currently working on [a minecraft texture pack website called shift.](https://github.com/shiftwtf)
+⌐■ᴗ■ Pronouns: **she/they**
 
-- (✿◠‿◠) i’m currently learning **time management**
+> (ᵔᴥᵔ) i’m currently working on [a minecraft texture pack website called shift.](https://github.com/shiftwtf)
 
-- ( 。・_・。)人(。・_・。 ) i’m looking to collaborate on **a web dev project for my local library.**
+> (✿◠‿◠) i’m currently learning **time management**
 
-- (ง’̀-‘́)ง i’m looking for help with **machine learning!**
+> ( 。・_・。)人(。・_・。 ) i’m looking to collaborate on **a web dev project for my local library.**
 
-- ⚡ Pronouns: **she/they**
+> (ง’̀-‘́)ง i’m looking for help with **machine learning!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
