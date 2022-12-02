@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chqir&label=Profile%20views&color=0e75b6&style=flat" alt="chqir" /> </p>
 
 ⌐■ᴗ■ Pronouns: **they/she**
-
 \> (ᵔᴥᵔ) i’m currently working on [a minecraft texture pack website called shift.](https://github.com/shiftwtf)
-
 \> (✿◠‿◠) i’m currently learning **time management**
-
 \> ( 。・_・。)人(。・_・。 ) i’m looking to collaborate on **a web dev project for my local library.**
-
 \> (ง’̀-‘́)ง i’m looking for help with **machine learning!**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chqir)](https://github.com/anuraghazra/github-readme-stats)
