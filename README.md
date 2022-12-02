@@ -1,5 +1,5 @@
 <h1 align="center">hello, im c!</h1>
-<h3 align="center">i try my best</h3>
+<h3 align="center"><a href="https://cmorrey.live">website <3</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chqir&label=Profile%20views&color=0e75b6&style=flat" alt="chqir" /> </p>
 
