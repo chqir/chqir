@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chqir&label=Profile%20views&color=0e75b6&style=flat" alt="chqir" /> </p>
 
-⌐■ᴗ■ Pronouns: **they/she**
+⌐■ᴗ■ Pronouns: **they/them**
 
 (ᵔᴥᵔ) i’m currently working on [a minecraft texture pack website called shift.](https://github.com/shiftwtf)
 
